@@ -1,0 +1,1 @@
+export type StatusTask = 'fulfilled' | 'in progress' | 'pending'
